@@ -18,9 +18,9 @@ Clone the repo.
 
 Open the index html file:
 
-	```
-	src/pongio.html
-	```
+```
+src/pongio.html
+```
 
 ## Deployment
 
